@@ -1,0 +1,22 @@
+Stay Safe Online – Prevention Checklist
+
+ General Safety Tips
+1. Use strong and unique passwords for all accounts (combine letters, numbers, and symbols). 
+2. Enable two-factor authentication (2FA) wherever possible. 
+3. Do not click on unknown links received via SMS, email, or social media. 
+4. Avoid sharing personal information (OTP, passwords, bank details) with anyone. 
+5. Always verify the authenticity of websites before entering sensitive data. 
+6. Keep your apps and devices updated to protect against security vulnerabilities. 
+Financial / UPI Safety Tips
+7. Never approve unknown UPI “collect requests”—you pay money when you approve them. 
+8. Do not scan QR codes to receive money—QR codes are only used for making payments. 
+9. Double-check the receiver’s name and UPI ID before sending money. 
+10. Avoid using public Wi-Fi for banking or payments. 
+ Report Cybercrime
+* Report incidents at: https://www.cybercrime.gov.in 
+* Call Helpline: 1930 immediately in case of financial fraud 
+
+Reflection 
+While researching cybercrime, what surprised me the most was how easily people can be tricked into scams, especially in UPI fraud cases. I learned that many victims lose money not because of technical hacking, but due to lack of awareness and simple mistakes like approving unknown requests or sharing OTPs. It was surprising to see how quickly money can be transferred and how difficult it is to recover once the transaction is completed.
+This research made me more aware of my own online habits. One important change I will make is to always carefully verify any payment request before approving it. I will also avoid clicking on unknown links and be more cautious while sharing any personal or financial information online. These small steps can greatly improve online safety.
+
