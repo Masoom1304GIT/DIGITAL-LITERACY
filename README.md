@@ -1,8 +1,8 @@
-Student Digital Portfolio & Cyber-Awareness Project
+# MASOOM ALI
+## Registration No: 25BAI11210
+ Student Digital Portfolio & Cyber-Awareness Project
 AI/ML Canva GitHub Google Drive
-Student Name: MASOOM ALI
-Registration No: 25BAI11210
- 
+
  Course:  B.Tech CSE (AI & ML), 
 1st Year Institution: VIT Bhopal University
  Project Overview This repository is a comprehensive compilation of five modules focused on establishing a professional digital presence, mastering collaboration tools, and understanding modern cybersecurity challenges. As a first-year AI & ML student, this project bridges the gap between academic theory and professional industry standards.
