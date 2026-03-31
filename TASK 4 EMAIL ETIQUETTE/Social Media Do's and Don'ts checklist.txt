@@ -1,0 +1,12 @@
+Email 2 — Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
+SUB : Application for Summer Internship Opportunity
+Dear sir/mam,
+ I hope this message finds you well. I am writing to express my interest in a summer internship opportunity at your esteemed organization. I am currently a student pursuing B.Tech in cse (ai ml) at VIT BHOPAL University, and I am eager to gain practical experience and enhance my skills in a professional environment.
+ I have developed a strong interest in software development and I have worked on projects related to this area during my academic coursework. I am particularly interested in your organization because of its reputation for innovation and excellence. 
+I would be grateful for the opportunity to contribute to your team while learning from experienced professionals. I am a quick learner, hardworking, and highly motivated to grow both personally and professionally.
+ Please find my resume attached for your review. I would welcome the opportunity to discuss my application further. 
+Thank you for your time and consideration.
+Yours sincerely,
+ MASOOM ALI 
+NO.: 25BAI11210 
+EMAIL: masoom.25bai11210@vitbhopal.ac.in
